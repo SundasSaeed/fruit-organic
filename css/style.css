@@ -1,0 +1,253 @@
+/*? header-1 */
+.float-1 {
+  float: left;
+  display: inline-block;
+}
+.float-2 {
+  float: right;
+  display: inline-block;
+}
+.icon {
+  color: limegreen;
+}
+
+/*? header-2 */
+.back-color {
+  background-color: rgb(247, 247, 247);
+  height: 5rem;
+}
+.width {
+  width: 16rem !important;
+  background-image: url("../src/green-search.png");
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position-x: 230px;
+  background-position-y: 10px;
+}
+
+.btn-default {
+  background-color: #fff;
+  width: 11rem;
+  color: gray;
+}
+/* !logo-image */
+.logo-image {
+  position: absolute;
+  left: 45%;
+  top: 10%;
+}
+
+/*? header-3 */
+
+.navbar-nav {
+  margin: 0 auto;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 2rem;
+}
+
+.color {
+  color: white !important;
+  background-color: limegreen;
+}
+
+/* ?--layout */
+.fonts {
+  text-align: center;
+  background-image: url("../src/slide2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-transform: uppercase;
+  color: white;
+  height: 100vh;
+  padding-top: 10%;
+}
+.jumbo {
+  color: yellow;
+  font-weight: bold;
+  font-size: 8rem;
+}
+.small {
+  font-size: 1rem;
+}
+.btn-sale {
+  color: white;
+  border: yellow 4px solid;
+  text-transform: uppercase;
+}
+
+/* !features */
+
+.feature ,p {
+  color: grey;
+}
+.boder {
+  border: 2px dotted limegreen;
+  padding: 50px;
+  border-radius: 50%;
+}
+/* !SUPER Offers */
+.center{
+  text-align: center;
+  color:rgb(100, 99, 99);
+}
+.image-1{
+  text-align: center;
+  background-image: url("../src/ad1-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 80vh;
+  width:10% !important;
+  padding-top: 15%;
+}
+.image-2{
+  text-align: center;
+  background-image: url("../src/ad2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 38vh;
+  margin-left: 3rem;
+  padding-top: 10%;
+}
+.image-3{
+  text-align: center;
+  background-image: url("../src/ad3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 38vh;
+  padding-top: 10%;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+.image-4{
+  text-align: center;
+  background-image: url("../src/ad4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 80vh;
+  padding-top: 15%;
+  margin-left: 3rem;
+}
+.btn-shop-1{
+  border:5px solid yellow;
+  margin-top:40px ;
+  color:white ;
+}
+.btn-shop-2{
+  border:5px solid white;
+  margin-bottom: 10px;
+  color: white;
+}
+.btn-shop-3{
+  border:5px solid white;
+  margin-top:40px ;
+  color:white;
+}
+/* ! news */
+.position{
+  text-align:center;
+  font-weight: 900;
+}
+.news{
+  background-color:whitesmoke;
+
+}
+.btn-news{
+  color: white;
+  background-color: limegreen;
+}
+.code-image{
+width: 100%;
+}
+.design-image{
+  width: 100%;
+}
+ /* !location */
+
+.default{
+text-align: center;
+font-size: 3rem;
+}
+
+
+
+
+/* !title-heading */
+.title {
+  color: limegreen;
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+/* !1st heading */
+.heading {
+  margin-top: 2rem;
+  text-transform: capitalize;
+}
+/* !catagories-colum */
+.row {
+  text-transform: capitalize;
+}
+.no1 {
+  color: black;
+  font-weight: 500;
+}
+
+/* !button */
+
+.btn-cross {
+  text-transform: capitalize;
+  color: #fff;
+  background-color: rgb(59, 144, 255);
+  margin-left: 7rem;
+  border-radius: 10px;
+}
+
+/*? footer details */
+
+.now {
+  margin-top: 5rem;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+  font-size: 2rem;
+}
+.p1 {
+  color: grey;
+  font-size: large;
+  text-transform: none;
+}
+.info {
+  font-size: medium;
+  text-transform: capitalize;
+  color: grey;
+  list-style-type: none;
+}
+.p2 {
+  color: grey;
+  font-size: small;
+  text-transform: capitalize;
+}
+.p3 {
+  color: white;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.info li::before {
+  content: "\2022";
+  color: limegreen;
+  margin-left: -1rem;
+  display: inline-block;
+  width: 1rem;
+}
+.vl {
+  color: limegreen !important;
+  height: 3rem;
+  width: 2rem;
+}
