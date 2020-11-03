@@ -78,7 +78,8 @@
 
 /* !features */
 
-.feature ,p {
+.feature,
+p {
   color: grey;
 }
 .boder {
@@ -87,33 +88,35 @@
   border-radius: 50%;
 }
 /* !SUPER Offers */
-.center{
+.center {
   text-align: center;
-  color:rgb(100, 99, 99);
+  color: rgb(100, 99, 99);
 }
-.image-1{
+.image-1 {
   text-align: center;
   background-image: url("../src/ad1-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
   height: 80vh;
-  width:10% !important;
+  width: 10% !important;
   padding-top: 15%;
 }
-.image-2{
+.image-2 {
   text-align: center;
-  background-image: url("../src/ad1-1.jpg");
+  background-image: url("../src/ad4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
   height: 38vh;
   margin-left: 3rem;
   padding-top: 10%;
+  /* display: block; */
 }
-.image-3{
+.image-3 {
   text-align: center;
-  background-image: url("../src/ad3.jpg");
+  background-image: url("../src/ad1-1.jpg");
+  /* display: block; */
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -122,7 +125,7 @@
   margin-left: 3rem;
   margin-top: 2rem;
 }
-.image-4{
+.image-4 {
   text-align: center;
   background-image: url("../src/ad1-1.jpg");
   background-size: cover;
@@ -132,49 +135,45 @@
   padding-top: 15%;
   margin-left: 3rem;
 }
-.btn-shop-1{
-  border:5px solid yellow;
-  margin-top:40px ;
-  color:white ;
+.btn-shop-1 {
+  border: 5px solid yellow;
+  margin-top: 40px;
+  color: white;
 }
-.btn-shop-2{
-  border:5px solid white;
+.btn-shop-2 {
+  border: 5px solid white;
   margin-bottom: 10px;
   color: white;
 }
-.btn-shop-3{
-  border:5px solid white;
-  margin-top:40px ;
-  color:white;
+.btn-shop-3 {
+  border: 5px solid white;
+  margin-top: 40px;
+  color: white;
 }
 /* ! news */
-.position{
-  text-align:center;
+.position {
+  text-align: center;
   font-weight: 900;
 }
-.news{
-  background-color:whitesmoke;
-
+.news {
+  background-color: whitesmoke;
 }
-.btn-news{
+.btn-news {
   color: white;
   background-color: limegreen;
 }
-.code-image{
-width: 100%;
-}
-.design-image{
+.code-image {
   width: 100%;
 }
- /* !location */
-
-.default{
-text-align: center;
-font-size: 3rem;
+.design-image {
+  width: 100%;
 }
+/* !location */
 
-
-
+.default {
+  text-align: center;
+  font-size: 3rem;
+}
 
 /* !title-heading */
 .title {
