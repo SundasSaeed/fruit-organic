@@ -104,7 +104,7 @@ p {
 }
 .image-2 {
   text-align: center;
-  background-image: url("../src/ad4.jpg");
+  background-image: url("../src/ad1-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -245,8 +245,6 @@ p {
   display: inline-block;
   width: 1rem;
 }
-.vl {
-  color: limegreen !important;
-  height: 3rem;
-  width: 2rem;
+.vl{
+  color: limegreen;
 }
